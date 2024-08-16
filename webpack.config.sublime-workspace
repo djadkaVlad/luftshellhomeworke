@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"console"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"wik",
+				"wiki-table"
+			],
+			[
+				"l",
+				"links_list"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"f",
+				"for"
+			],
+			[
+				"k",
+				"links"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"pr",
+				"proxy"
+			],
+			[
+				"au",
+				"autofocus"
+			],
+			[
+				"na",
+				"navbar-nav"
+			],
+			[
+				"dr",
+				"dropdown-menu"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"cha",
+				"chocolate"
+			],
+			[
+				"c",
+				"condabin"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"S",
+				"StringField"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"u",
+				"url_for"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"m",
+				"method"
+			],
+			[
+				"F",
+				"FlaskForm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/piero/mydata.json",
+		"/home/piero/newmydatanull.json",
+		"/home/piero/mydatawithoutNull.json",
+		"/home/piero/test.txt",
+		"/home/piero/.local/share/qBittorrent/logs/qbittorrent.log",
+		"/home/piero/projects/Python/Курсы/Python для SEO специалиста (2018-2019)/hw_учеников/hw_8.py",
+		"/home/piero/projects/Python/Курсы/Python для SEO специалиста (2018-2019)/hw_5.py",
+		"/home/piero/.zshenv",
+		"/home/piero/PycharmProjects/extractblogAlex/mainv2.py",
+		"/home/piero/okular.txt",
+		"/home/piero/Загрузки/Export text-video_2024-03-18_12-55-33mp4(21.03.2024).txt",
+		"/home/piero/.config/helix/config.toml",
+		"/home/piero/.npm/_logs/2024-03-28T22_53_29_462Z-debug-0.log",
+		"/home/piero/.config/helix/languages.toml",
+		"/home/piero/Загрузки/Export subtitles - video_2024-03-18_12-55-33mp4 (21.03.2024).srt",
+		"/home/piero/Addons/anki/Settings.json",
+		"/home/piero/.config/dunst/dunstrc.old",
+		"/home/piero/.scripts/sh/check_kernel_updates_packman",
+		"/home/piero/.config/dunst/dunstrc",
+		"/home/piero/.scripts/sh/translate_text_okular_and_etc.sh",
+		"/home/piero/projects/Python/splitter_mp3_custom_duration/main_with_arg.py",
+		"/home/piero/projects/JavaScript/customLab/movie_kinopoiskapi_obsidian/script.js",
+		"/home/piero/projects/JavaScript/customLab/movie_kinopoiskapi_obsidian/home.html",
+		"/home/piero/projects/Python/Obsidian/Deepseek/one_module_main.py",
+		"/home/piero/fixed_files_in_home.txt",
+		"/home/piero/Documents/Logs/errorsArchivies.log",
+		"/home/piero/Documents/Логи/errorsArchivies.log",
+		"/home/piero/Загрузки/Порядочк чтения Хроники Дюны.txt",
+		"/home/piero/projects/Python/personal_projects/blockerapps/tg_block_flask/templates/index.html",
+		"/home/piero/.scripts/sh/check_dunst.sh",
+		"/home/piero/NotesAndMM/Obsidian/FrontEnd/FrontEnd/JS/snippets/Калькулятор.md",
+		"/home/piero/projects/Python/Obsidian/obsidian-utils/config.yaml",
+		"/home/piero/calcurse11.ical",
+		"/home/piero/projects/Rust/rustlings/exercises/variables/README.md",
+		"/home/piero/projects/Rust/rustlings/exercises/intro/README.md",
+		"/home/piero/самодисциплина СДВГ",
+		"/home/piero/Active_Action/[Loftschool] Интенсивный курс Комплексное обучение JavaScript (2022) [ru]/My HomeWRK/README.md",
+		"/home/piero/Загрузки/Как найти первоисточник практически любого изображения – Telegraph.md",
+		"/home/piero/.zsh_history",
+		"/home/piero/Games/Old_or_Dos/DARKFORC/Инструкция по запуску",
+		"/home/piero/Загрузки/session_buddy_export_2023_05_19_14_53_19.md",
+		"/home/piero/.zshrc",
+		"/home/piero/Загрузки/БуфернаяLin&Win/Да ДАННЫЕ ВСЕ/Данные учетных записей/OsnovaOriginal.txt",
+		"/home/piero/Загрузки/How to get Notion-AI-like Autocomplete with LLMs in Obsidian, offline  by Ming  Medium.md",
+		"/home/piero/projects/Python/Obsidian/Deepseek/shizo_obsidkamain.py",
+		"/home/piero/fexs",
+		"/home/piero/Active_Action/[Loftschool] Интенсивный курс Комплексное обучение JavaScript (2022) [ru]/homeworks/course-javascript-master/projects/test/index.js",
+		"/home/piero/.cache/yay/pdfstudioviewer/.SRCINFO",
+		"/home/piero/.cache/yay/pdfstudioviewer/PKGBUILD",
+		"/home/piero/.zshrc.backupnew",
+		"/home/piero/Загрузки/materialgram/Павел_Корнев_Схема_Надёжно_Зарабатывайте_на_автопилоте_3470_в_день/[Павел Корнев] Схема - Надёжно. Зарабатывайте на автопилоте 3470 в день на регистрациях (2023)/[SW.BAND] Ссылки для работы.txt",
+		"/home/piero/Загрузки/baza_vzlomannykh_telegram_akkauntov.txt",
+		"/home/piero/Documents/Books/Programming/Python/Создание бота/1.1 Авторизация бота",
+		"/home/piero/Games/Old_or_Dos/DARKFORC/old-games.nfo",
+		"/home/piero/.config/systemd/user/dunst-check.service",
+		"/home/piero/Загрузки/ala bunk/Пароль к alfabanka.txt",
+		"/home/piero/Рабочий стол/hs_err_pid70813.log",
+		"/home/piero/projects/Python/personal_projects/snippets/block_app(name).py",
+		"/home/piero/projects/Python/personal_projects/blockerapps/tg_block_flask/README.md",
+		"/home/piero/projects/Python/personal_projects/blockerapps/tg_block_flask/monitor_telegram.py",
+		"/home/piero/projects/Python/personal_projects/blockerapps/tg_block_flask/block_blya.py",
+		"/home/piero/projects/Python/personal_projects/blockerapps/block_telegram_flask.py",
+		"/home/piero/projects/Python/personal_projects/blockerapps/block_telegram.py",
+		"/home/piero/Github/timetrackrs/Cargo.lock",
+		"/home/piero/Documents/Notes/Obsidian/МыВслеленная/Ideaverse/Атлас/Книги/access-code.csv",
+		"/home/piero/Github/timetrackrs/Cargo.toml",
+		"/home/piero/Github/timetrackrs/target/CACHEDIR.TAG",
+		"/home/piero/Github/timetrackrs/update-schemas.sh",
+		"/home/piero/Documents/Notes/Obsidian/МыВслеленная/Ideaverse/.obsidian/snippets/cornell.css",
+		"/var/log/Xorg.0.log",
+		"/home/piero/.cache/helix/helix.log",
+		"/home/piero/Загрузки/scan2folder.txt",
+		"/home/piero/.config/nvim.bak/old config nvim/old_init.vim",
+		"/home/piero/Documents/Логи/alldamagearchive.log",
+		"/home/piero/PycharmProjects/ObsidianAPI/Main(Diary)/folders_and_files",
+		"/home/piero/.scripts/sh/update_system_and_log_terminal",
+		"/home/piero/projects/Web/testSticky/style.css",
+		"/home/piero/Загрузки/This new AI is powerful and uncensored… Let’s run it - YouTube.md",
+		"/home/piero/projects/Python/Obsidian/Deepseek/main.py",
+		"/home/piero/projects/Python/Obsidian/Deepseek/file_manager.py",
+		"/home/piero/.config/PortProton.conf",
+		"/home/piero/projects/Python/Obsidian/Deepseek/ui.py",
+		"/home/piero/projects/Python/Obsidian/Deepseek/reminder.py",
+		"/home/piero/projects/Python/Obsidian/Deepseek/one_module_main.py.backup",
+		"/home/piero/NotesAndMM/Obsidian/Ideaverse/Атлас/Utilities/Scripts/movies.js",
+		"/home/piero/NotesAndMM/Obsidian/Ideaverse/Атлас/Utilities/Scripts/movies_kinopoisk.js",
+		"/home/piero/Загрузки/Machine Learning Mathematics Roadmap — How much math is required  by Himanshu Ramchandani  Medium.md",
+		"/home/piero/projects/Laboratory/bash_scripts/splitter_mp3by_ffmpeg/timestamps.txt",
+		"/home/piero/projects/Laboratory/bash_scripts/splitter_mp3by_ffmpeg/shizo_splitmp3.sh",
+		"/home/piero/Games/Lego island 2/readme.txt",
+		"/home/piero/Загрузки/Новый файл",
+		"/home/piero/Games/Lego island 2/old-games.nfo",
+		"/home/piero/Documents/Logs/pacman/logfile.log",
+		"/home/piero/.scripts/sh/for_in.sh",
+		"/home/piero/.scripts/sh/for_in_test.sh",
+		"/home/piero/.scripts/sh/djvu_splitter.sh",
+		"/home/piero/.scripts/sh/packages.txt",
+		"/home/piero/.scripts/sh/check_kernel_updates_from_website",
+		"/home/piero/Documents/Notes/file1.md",
+		"/home/piero/Documents/Notes/file.typ",
+		"/home/piero/Documents/Notes/file.md",
+		"/home/piero/NotesAndMM/Obsidian/Diary/Diary/FAQ и советы.md",
+		"/home/piero/NotesAndMM/Obsidian/Diary/Diary/Аккаунты/Почта/suka.md",
+		"/home/piero/oh-my-zsh.sh",
+		"/home/piero/.config/dunst/testinstall",
+		"/home/piero/.config/dunst/testlogpackman",
+		"/home/piero/.config/i3/config",
+		"/home/piero/projects/Rust/rustlings/exercises/functions/README.md",
+		"/home/piero/projects/Rust/rustlings/exercises/functions/functions5.rs",
+		"/home/piero/projects/Rust/rustlings/exercises/functions/functions4.rs",
+		"/home/piero/projects/Rust/rustlings/exercises/primitive_types/README.md",
+		"/home/piero/projects/Rust/rustlings/exercises/primitive_types/primitive_types3.rs",
+		"/home/piero/NotesAndMM/Obsidian/Python/.obsidian/snippets/cardsImages.css",
+		"/home/piero/projects/Web/testSticky/index.html",
+		"/home/piero/Books/Programming/Javascript/[HTML Academy] JavaScript. Профессиональная разработка веб-интерфейсов. 1 уровень (2021)/[SW.BAND] Программа.txt",
+		"/home/piero/Books/Programming/Javascript/[HTML Academy] JavaScript. Профессиональная разработка веб-интерфейсов. 1 уровень (2021)/[SW.BAND] Учебные проекты/Keксограмм/222997-kekstagram-22-master/Readme.md",
+		"/home/piero/Books/Programming/Javascript/[HTML Academy] JavaScript. Профессиональная разработка веб-интерфейсов. 1 уровень (2021)/[SW.BAND] Тренажеры.txt",
+		"/home/piero/Books/Programming/Javascript/JavaScript_ПолноеРуководство/02.Основы JavaScript/1/js_02-01/script.js",
+		"/home/piero/Books/Programming/Javascript/JavaScript_ПолноеРуководство/02.Основы JavaScript/1/js_02-01/index.html",
+		"/run/media/piero/F80C6CB10C6C6C96/Users/Tom/Documents/Diary/Diary/скал и оз.md",
+		"/usr/lib/modules/6.8.1-arch1-1/build/Makefile",
+		"/home/piero/rtw88/Makefile",
+		"/home/piero/Загрузки/Arch Linux fixing the “yay error while loading shared libraries libalpm.so.13” error.md",
+		"/home/piero/projects/Rust/rustlings/exercises/quiz1.rs",
+		"/home/piero/projects/Rust/rustlings/exercises/README.md",
+		"/home/piero/projects/Laboratory/Web/gigachatsite/home.html",
+		"/home/piero/projects/Laboratory/Web/gigachatsite/style.css",
+		"/home/piero/projects/Laboratory/Web/gigachatsite/script.js"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime/HUD":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webpack.config.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 255.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 617.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
